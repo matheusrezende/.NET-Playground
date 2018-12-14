@@ -1,0 +1,14 @@
+/Users/matheusrezende/www/fitogram/Backend/bin/Debug/netcoreapp2.2/Backend.deps.json
+/Users/matheusrezende/www/fitogram/Backend/bin/Debug/netcoreapp2.2/Backend.runtimeconfig.json
+/Users/matheusrezende/www/fitogram/Backend/bin/Debug/netcoreapp2.2/Backend.runtimeconfig.dev.json
+/Users/matheusrezende/www/fitogram/Backend/bin/Debug/netcoreapp2.2/Backend.dll
+/Users/matheusrezende/www/fitogram/Backend/bin/Debug/netcoreapp2.2/Backend.pdb
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.csprojAssemblyReference.cache
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.csproj.CoreCompileInputs.cache
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.RazorAssemblyInfo.cache
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.RazorAssemblyInfo.cs
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.AssemblyInfoInputs.cache
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.AssemblyInfo.cs
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.RazorTargetAssemblyInfo.cache
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.dll
+/Users/matheusrezende/www/fitogram/Backend/obj/Debug/netcoreapp2.2/Backend.pdb
